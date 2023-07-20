@@ -1,0 +1,15 @@
+"Row.names","sample names","number of genes","number of proteins","final D size","RNArate","minimal.cells"
+"Bcell","P1_2020Oct, P3_2023Jan","1611","52","1499, 195",0.2,30
+"CD4Tcell","P1_2020Oct, P2_2021Mar, P3_2023Jan","1679","52","1549, 198",0.15,30
+"CD8Tcell","P1_2020Oct, P2_2021Mar, P3_2023Jan","1671","52","1526, 197",0.15,30
+"cDC","P1_2020Oct, P2_2021Mar, P3_2023Jan","1470","52","1337, 192",0.3,30
+"Endothelium","P1_2020Oct","1556","52","1422, 196",0.35,30
+"Fibroblast","P1_2020Oct, P3_2023Jan","1673","52","1537, 197",0.35,30
+"LungEpithelium","P1_2020Oct, P3_2023Jan","1653","52","1525, 192",0.3,30
+"M2Macrophage","P1_2020Oct","1722","52","1572, 197",0.55,30
+"Macrophage","P1_2020Oct, P2_2021Mar, P3_2023Jan","1497","52","1354, 192",0.25,30
+"MalignantEpithelial","P1_2020Oct, P2_2021Mar, P3_2023Jan","1530","52","1437, 194",0.3,30
+"NKcell","P1_2020Oct, P2_2021Mar, P3_2023Jan","1454","52","1333, 193",0.2,30
+"NKTcell","P1_2020Oct, P2_2021Mar, P3_2023Jan","1625","52","1496, 196",0.15,30
+"NotAvail","NA","NA","NA","0, 0",0.3,30
+"ProliferatingCell","P1_2020Oct, P2_2021Mar","1802","52","1689, 195",0.55,30

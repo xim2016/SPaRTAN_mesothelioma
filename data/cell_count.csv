@@ -1,0 +1,15 @@
+Types,P1_2020Oct,P2_2021Mar,P3_2023Jan
+Bcell,190,24,243
+CD4Tcell,301,304,746
+CD8Tcell,286,176,444
+cDC,311,51,97
+Endothelium,49,1,12
+Fibroblast,58,11,30
+LungEpithelium,111,5,46
+M2Macrophage,234,14,20
+Macrophage,2470,643,1549
+MalignantEpithelial,445,3136,47
+NKcell,150,113,146
+NKTcell,69,110,206
+NotAvail,25,17,13
+ProliferatingCell,88,86,22

@@ -1,0 +1,9 @@
+.venv
+.vscode
+__pycache__
+requirements - Copy.txt
+test.py
+/data/CLR1norm_oldcelltype
+/data/CLR2norm_oldcelltype
+/data/Setting_0
+/data/Setting_1
