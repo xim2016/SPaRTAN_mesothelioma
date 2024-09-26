@@ -12,7 +12,7 @@ def main_page(setting):
 
     with st.sidebar:
 
-        choose2 = option_menu(setting, ["CITE-seq overview", "SPaRTAN analysis"],
+        choose2 = option_menu("", ["CITE-seq overview", "SPaRTAN analysis"],
                             icons=['clipboard-data',
                                     'lightning-charge'],
                             menu_icon="arrow-return-right", default_index=0,
