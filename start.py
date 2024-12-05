@@ -20,7 +20,7 @@ Image.MAX_IMAGE_PIXELS = None
 
 # from utils import set_page_container_style
 # def set_page_container_style(prcnt_width: int = 75):
-max_width_str = f"max-width: {100}%;"
+max_width_str = f"max-width: {70}%;"
 st.markdown(f"""
             <style> 
             
